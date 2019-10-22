@@ -13,15 +13,15 @@ namespace THREAD
         {
             Thread myThread = new Thread(() =>
             {
-                Console.WriteLine("MyThread è iniziato");
-                Thread.Sleep(10000);
+              Console.WriteLine("MyThread è iniziato");
+             Thread.Sleep(1000);
                 Console.WriteLine("MyThread è terminato");
 
             });
 
-            //esecuzione di myThread
+            // Esecuzione di myThread
             myThread.Start();
-
+             
             Thread.Sleep(500);
             Console.WriteLine("Main Thread");
 
