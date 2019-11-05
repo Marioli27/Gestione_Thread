@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Threading4
 {
-    class Program
+    class Thread4
     {
         static void Main(string[] args)
         {
@@ -33,7 +33,7 @@ namespace Threading4
             }
 
             Console.WriteLine("Esecuzione di tutti i thread terminata");
-            
+            //Attesa di massimo un secondo thread.Join(1000);
         }
     }
 }
