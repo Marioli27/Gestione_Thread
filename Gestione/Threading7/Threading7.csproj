@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C224FE16-A296-4BB3-A68C-BAB7B2320010}</ProjectGuid>
+    <ProjectGuid>{5E623F6F-A2C0-43E2-9FC2-0967C3E67056}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Threading6</RootNamespace>
-    <AssemblyName>Threading6</AssemblyName>
+    <RootNamespace>Threading7</RootNamespace>
+    <AssemblyName>Threading7</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Thread6.cs" />
+    <Compile Include="Thread7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
