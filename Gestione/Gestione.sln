@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading6", "Threading6\Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading7", "Threading7\Threading7.csproj", "{5E623F6F-A2C0-43E2-9FC2-0967C3E67056}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading8", "Threading8\Threading8.csproj", "{499AC4C2-0C93-4A28-B04B-0C1D48C9CE23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Threading8\Task1.csproj", "{499AC4C2-0C93-4A28-B04B-0C1D48C9CE23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
